@@ -1,0 +1,17 @@
+body {font-family: 'Poppins', sans-serif;}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 1vw;
+  }
+  th {
+    text-align: left;
+  }
+  table img {
+width:10vw
+  }
+hr{
+    width:80vw
+}
